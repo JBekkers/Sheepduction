@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - animal
+  - awp
+  - ak
+  - hayfork
+  - ducknate
+  - minigun
+  - rpg
+  - HealPotion
+  - duckExplode
+  - AmmoTXT
+  - ufo
+  - ScareCrow
+  - Lazer
+  - Default
+  - Barrier
+  - hs1
+  - hs2
+  - hs3
+  - hs4
+  - hs5
+  - Hand
+  - Hammer
+  - healitem
+  - barrierkit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Rocket
+  - NoInteract
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
